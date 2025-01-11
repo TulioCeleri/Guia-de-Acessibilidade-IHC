@@ -1,1 +1,1 @@
-# Guia-de-Acessibilidade---IHC
+# Guia-de-Acessibilidade-IHC
