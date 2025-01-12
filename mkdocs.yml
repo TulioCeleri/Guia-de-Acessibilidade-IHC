@@ -1,4 +1,13 @@
 site_name: Guia de Acessibilidade
+
+nav:
+  - Projeto: index.md
+  - Documentação do Guia:
+    - 1. Introdução à Acessibilidade Digital: Guia/introducao.md
+    - 2. Tipos de Deficiências e Necessidades: Guia/deficiencias.md
+    - 3. Princípios de Design Acessível: Guia/design.md
+    - 4. Heurísticas de Nielsen: Guia/heuristicas.md
+        
 theme:
   name: material
   features:
@@ -11,7 +20,9 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
   language: pt-BR
+
   palette:
     - scheme: default
       toggle:
@@ -25,6 +36,7 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
