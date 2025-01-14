@@ -31,9 +31,9 @@ ________________________________________________________________________________
 
 Nosso grupo é composto por 5 estudantes do curso de Engenharia de Software, Conheça os membros da equipe de desenvolvimento logo abaixo:
 
-| ![Camera](img/ProfilePic_D.png#only-light) ![Camera](img/ProfilePic_L.png#only-dark)     | [<img src="https://avatars.githubusercontent.com/u/63163895?v=4" class="rounded-image">]() | [<img src="https://avatars.githubusercontent.com/u/118084068?v=4" class="rounded-image">]() | [<img src="https://avatars.githubusercontent.com/u/86434947?v=4" class="rounded-image">]()  | [<img src="https://avatars.githubusercontent.com/u/122989234?v=4" class="rounded-image">]()| [<img src="img/Unb.png" class="rounded-image">]() |
+| ![Camera](img/ProfilePic_D.png#only-light) ![Camera](img/ProfilePic_L.png#only-dark)     | [<img src="https://avatars.githubusercontent.com/u/63163895?v=4" class="rounded-image">]() | [<img src="https://avatars.githubusercontent.com/u/118084068?v=4" class="rounded-image">]() | [<img src="https://avatars.githubusercontent.com/u/86434947?v=4" class="rounded-image">]()  | [<img src="https://avatars.githubusercontent.com/u/122989234?v=4" class="rounded-image">]()| [<img src="https://avatars.githubusercontent.com/u/98185010?v=4" class="rounded-image">]() |
 |:---------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-| **Nome**  | [Lucca Medeiros](https://github.com/luccameds) | [Pedro Ferreira Gondim](https://github.com/G0ndim) | [Letícia Torres Soares Martins](https://github.com/leticiatmartins) | [Tulio Augusto Celeri](https://github.com/TulioCeleri) | [Lucas Antunes]() |
+| **Nome**  | [Lucca Medeiros](https://github.com/luccameds) | [Pedro Ferreira Gondim](https://github.com/G0ndim) | [Letícia Torres Soares Martins](https://github.com/leticiatmartins) | [Tulio Augusto Celeri](https://github.com/TulioCeleri) | [Lucas Antunes](https://github.com/LucasGSAntunes) |
 
 
 _________________________________________________________________________________
