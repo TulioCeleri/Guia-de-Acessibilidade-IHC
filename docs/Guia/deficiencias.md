@@ -1,4 +1,4 @@
-# 2. Tipos de Deficiências e Necessidades
+# Tipos de Deficiências e Necessidades
 
 As deficiências podem afetar diferentes aspectos da vida de uma pessoa e influenciam a forma como ela interage com a tecnologia. É essencial entender as diversas deficiências e necessidades para garantir que os produtos digitais sejam inclusivos e acessíveis. A seguir, abordamos as principais categorias de deficiência e suas implicações na acessibilidade digital.
 

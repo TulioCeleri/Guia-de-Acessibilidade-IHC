@@ -1,4 +1,4 @@
-# 3. Princípios de Design Acessível
+# Princípios de Design Acessível
 
 Os princípios de design acessível são fundamentais para garantir que todos os usuários, independentemente de suas limitações, possam acessar e interagir com o conteúdo digital de forma eficaz. A seguir, apresentamos os quatro princípios essenciais de acessibilidade digital, conforme as Diretrizes de Acessibilidade para Conteúdo Web (WCAG).
 

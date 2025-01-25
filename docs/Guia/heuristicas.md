@@ -4,7 +4,7 @@ As 10 heurísticas de usabilidade de Jakob Nielsen são diretrizes amplamente re
 
 ---
 
-## 1. **Visibilidade do Status do Sistema**
+## 4.1 **Visibilidade do Status do Sistema**
    
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, fornecendo feedback apropriado de forma visível e dentro de um tempo razoável. Isso ajuda os usuários a entenderem o status da interação, evitando incertezas e frustrações.
 
@@ -14,7 +14,7 @@ O sistema deve sempre manter os usuários informados sobre o que está acontecen
 
 ---
 
-## 2. **Correspondência entre o Sistema e o Mundo Real**
+## 4.2 **Correspondência entre o Sistema e o Mundo Real**
 
 O sistema deve usar linguagem familiar ao usuário, em vez de jargões técnicos, para se comunicar. Ele deve seguir convenções do mundo real, tornando a interação mais intuitiva e compreensível.
 
@@ -23,7 +23,7 @@ O sistema deve usar linguagem familiar ao usuário, em vez de jargões técnicos
 
 ---
 
-## 3. **Controle e Liberdade do Usuário**
+## 4.3 **Controle e Liberdade do Usuário**
 
 Os usuários frequentemente realizam ações por engano, por isso o sistema deve fornecer opções de desfazer e refazer ações, permitindo que eles se sintam mais seguros ao usar a interface.
 
@@ -33,7 +33,7 @@ Os usuários frequentemente realizam ações por engano, por isso o sistema deve
 
 ---
 
-## 4. **Consistência e Padrões**
+## 4.4 **Consistência e Padrões**
 
 Os usuários não devem ter que se perguntar se diferentes palavras, situações ou ações significam a mesma coisa. A interface deve ser consistente e seguir padrões estabelecidos.
 
@@ -42,7 +42,7 @@ Os usuários não devem ter que se perguntar se diferentes palavras, situações
 
 ---
 
-## 5. **Prevenção de Erros**
+## 4.5 **Prevenção de Erros**
 
 Melhor que uma boa mensagem de erro é um bom design que previne erros de acontecerem. O sistema deve ser projetado para evitar situações de erro ao máximo.
 
@@ -52,7 +52,7 @@ Melhor que uma boa mensagem de erro é um bom design que previne erros de aconte
 
 ---
 
-## 6. **Reconhecimento em vez de Memorização**
+## 4.6 **Reconhecimento em vez de Memorização**
 
 O sistema deve minimizar a carga de memória do usuário tornando objetos, ações e opções visíveis ou facilmente acessíveis. Em vez de o usuário ter que se lembrar de informações, o sistema deve fornecer as informações quando necessário.
 
@@ -62,7 +62,7 @@ O sistema deve minimizar a carga de memória do usuário tornando objetos, açõ
 
 ---
 
-## 7. **Flexibilidade e Eficiência de Uso**
+## 4.7 **Flexibilidade e Eficiência de Uso**
 
 Os sistemas devem ser projetados para atender tanto a iniciantes quanto a usuários experientes. Oferecer atalhos e opções de personalização pode aumentar a eficiência para os usuários avançados sem sobrecarregar os novatos.
 
@@ -72,7 +72,7 @@ Os sistemas devem ser projetados para atender tanto a iniciantes quanto a usuár
 
 ---
 
-## 8. **Estética e Design Minimalista**
+## 4.8 **Estética e Design Minimalista**
 
 A interface deve ser limpa e não sobrecarregar os usuários com informações irrelevantes. Cada elemento na interface deve ser necessário e contribuir para a experiência.
 
@@ -82,7 +82,7 @@ A interface deve ser limpa e não sobrecarregar os usuários com informações i
 
 ---
 
-## 9. **Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros**
+## 4.9 **Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar de Erros**
 
 Quando ocorrer um erro, o sistema deve apresentar mensagens claras que expliquem o problema e sugiram uma solução. Além disso, as mensagens de erro devem ser simples e evitar tecnicismos.
 
@@ -92,7 +92,7 @@ Quando ocorrer um erro, o sistema deve apresentar mensagens claras que expliquem
 
 ---
 
-## 10. **Ajuda e Documentação**
+## 4.10 **Ajuda e Documentação**
 
 Embora os sistemas devem ser projetados para serem usados sem documentação, pode ser necessário fornecer ajuda ou documentação acessível. Esta ajuda deve ser fácil de buscar e não se tornar um obstáculo para o uso do sistema.
 

@@ -7,6 +7,10 @@ nav:
     - 2. Tipos de Deficiências e Necessidades: Guia/deficiencias.md
     - 3. Princípios de Design Acessível: Guia/design.md
     - 4. Heurísticas de Nielsen: Guia/heuristicas.md
+    - 5. Ferramentas e Tecnologias Assistivas: Guia/ferramentas.md
+    - 6. Testando a Acessibilidade: Guia/acessibilidade.md
+    - 7. Estruturas e Padrões de Acessibilidade: Guia/estruturas.md
+    - 8. Boas Práticas para Designers e Desenvolvedores: Guia/boaspraticas.md
         
 theme:
   name: material

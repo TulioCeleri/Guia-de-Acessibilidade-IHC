@@ -1,4 +1,4 @@
-# 1. Introdução à Acessibilidade Digital
+# Introdução à Acessibilidade Digital
 
 A acessibilidade digital se refere à prática de criar e desenvolver produtos digitais, como websites, aplicativos e ferramentas, de maneira que sejam utilizáveis por pessoas com diferentes tipos de deficiência. Isso envolve garantir que o conteúdo digital seja perceptível, operável, compreensível e robusto, de modo que todas as pessoas, independentemente de suas limitações, possam acessar e interagir com ele.
 
