@@ -9,6 +9,7 @@ As 10 heurísticas de usabilidade de Jakob Nielsen são diretrizes amplamente re
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, fornecendo feedback apropriado de forma visível e dentro de um tempo razoável. Isso ajuda os usuários a entenderem o status da interação, evitando incertezas e frustrações.
 
 **Exemplo:**
+
 - Mostrar uma barra de progresso durante o carregamento de uma página ou processo.
 - Exibir uma mensagem de confirmação após o envio de um formulário.
 
@@ -19,6 +20,7 @@ O sistema deve sempre manter os usuários informados sobre o que está acontecen
 O sistema deve usar linguagem familiar ao usuário, em vez de jargões técnicos, para se comunicar. Ele deve seguir convenções do mundo real, tornando a interação mais intuitiva e compreensível.
 
 **Exemplo:**
+
 - Em um aplicativo de compras, usar "Carrinho" ao invés de "Cesta" se esse for o termo mais comum utilizado pelos usuários.
 
 ---
@@ -28,6 +30,7 @@ O sistema deve usar linguagem familiar ao usuário, em vez de jargões técnicos
 Os usuários frequentemente realizam ações por engano, por isso o sistema deve fornecer opções de desfazer e refazer ações, permitindo que eles se sintam mais seguros ao usar a interface.
 
 **Exemplo:**
+
 - Permitir que o usuário desfaça a exclusão de um item ou o envio de um e-mail.
 - Oferecer um botão de "Voltar" claro e fácil de acessar.
 
@@ -38,6 +41,7 @@ Os usuários frequentemente realizam ações por engano, por isso o sistema deve
 Os usuários não devem ter que se perguntar se diferentes palavras, situações ou ações significam a mesma coisa. A interface deve ser consistente e seguir padrões estabelecidos.
 
 **Exemplo:**
+
 - Se o botão "Salvar" estiver localizado no canto superior direito em uma tela, ele deve estar no mesmo lugar em outras telas relacionadas.
 
 ---
@@ -47,6 +51,7 @@ Os usuários não devem ter que se perguntar se diferentes palavras, situações
 Melhor que uma boa mensagem de erro é um bom design que previne erros de acontecerem. O sistema deve ser projetado para evitar situações de erro ao máximo.
 
 **Exemplo:**
+
 - Desabilitar o botão "Enviar" até que o usuário tenha preenchido todos os campos obrigatórios de um formulário.
 - Confirmar uma ação, como a exclusão de um item, antes de executá-la.
 
@@ -57,6 +62,7 @@ Melhor que uma boa mensagem de erro é um bom design que previne erros de aconte
 O sistema deve minimizar a carga de memória do usuário tornando objetos, ações e opções visíveis ou facilmente acessíveis. Em vez de o usuário ter que se lembrar de informações, o sistema deve fornecer as informações quando necessário.
 
 **Exemplo:**
+
 - Mostrar uma lista suspensa com sugestões enquanto o usuário digita no campo de pesquisa.
 - Usar ícones de navegação comuns como "lupa" para busca, "casa" para início, etc.
 
@@ -67,6 +73,7 @@ O sistema deve minimizar a carga de memória do usuário tornando objetos, açõ
 Os sistemas devem ser projetados para atender tanto a iniciantes quanto a usuários experientes. Oferecer atalhos e opções de personalização pode aumentar a eficiência para os usuários avançados sem sobrecarregar os novatos.
 
 **Exemplo:**
+
 - Oferecer teclas de atalho ou gestos rápidos para usuários que sabem como usá-los.
 - Permitir que os usuários personalizem a interface de acordo com suas preferências.
 
@@ -77,6 +84,7 @@ Os sistemas devem ser projetados para atender tanto a iniciantes quanto a usuár
 A interface deve ser limpa e não sobrecarregar os usuários com informações irrelevantes. Cada elemento na interface deve ser necessário e contribuir para a experiência.
 
 **Exemplo:**
+
 - Evitar o uso excessivo de texto ou elementos gráficos que não acrescentem valor à experiência do usuário.
 - Simplificar os menus e telas para que apenas as informações mais importantes sejam exibidas.
 
@@ -87,6 +95,7 @@ A interface deve ser limpa e não sobrecarregar os usuários com informações i
 Quando ocorrer um erro, o sistema deve apresentar mensagens claras que expliquem o problema e sugiram uma solução. Além disso, as mensagens de erro devem ser simples e evitar tecnicismos.
 
 **Exemplo:**
+
 - Exibir uma mensagem como "Senha incorreta. Tente novamente" ao invés de uma mensagem vaga como "Erro 401".
 - Fornecer links ou dicas para corrigir os erros mais comuns.
 
@@ -97,6 +106,7 @@ Quando ocorrer um erro, o sistema deve apresentar mensagens claras que expliquem
 Embora os sistemas devem ser projetados para serem usados sem documentação, pode ser necessário fornecer ajuda ou documentação acessível. Esta ajuda deve ser fácil de buscar e não se tornar um obstáculo para o uso do sistema.
 
 **Exemplo:**
+
 - Oferecer uma seção de "Ajuda" ou "FAQ" dentro do aplicativo para responder às perguntas mais frequentes.
 - Incluir tutoriais ou dicas rápidas acessíveis ao usuário durante o uso do sistema.
 
